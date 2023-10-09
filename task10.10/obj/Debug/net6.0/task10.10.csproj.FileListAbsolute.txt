@@ -1,0 +1,14 @@
+D:\task10.10\task10.10\bin\Debug\net6.0\task10.10.exe
+D:\task10.10\task10.10\bin\Debug\net6.0\task10.10.deps.json
+D:\task10.10\task10.10\bin\Debug\net6.0\task10.10.runtimeconfig.json
+D:\task10.10\task10.10\bin\Debug\net6.0\task10.10.dll
+D:\task10.10\task10.10\bin\Debug\net6.0\task10.10.pdb
+D:\task10.10\task10.10\obj\Debug\net6.0\task10.10.GeneratedMSBuildEditorConfig.editorconfig
+D:\task10.10\task10.10\obj\Debug\net6.0\task10.10.AssemblyInfoInputs.cache
+D:\task10.10\task10.10\obj\Debug\net6.0\task10.10.AssemblyInfo.cs
+D:\task10.10\task10.10\obj\Debug\net6.0\task10.10.csproj.CoreCompileInputs.cache
+D:\task10.10\task10.10\obj\Debug\net6.0\task10.10.dll
+D:\task10.10\task10.10\obj\Debug\net6.0\refint\task10.10.dll
+D:\task10.10\task10.10\obj\Debug\net6.0\task10.10.pdb
+D:\task10.10\task10.10\obj\Debug\net6.0\task10.10.genruntimeconfig.cache
+D:\task10.10\task10.10\obj\Debug\net6.0\ref\task10.10.dll
